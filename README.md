@@ -19,7 +19,7 @@ This project implements the **Tryhard** smart contract using Solidity. It's desi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tryhard-solidity.git
+   git clone https://raw.githubusercontent.com/Skillz23/Tryhard/refs/heads/main/Tryhard.sol
    cd tryhard-solidity
 
 ## Instal dependencies:
