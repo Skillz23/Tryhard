@@ -21,3 +21,16 @@ This project implements the **Tryhard** smart contract using Solidity. It's desi
    ```bash
    git clone https://github.com/your-username/tryhard-solidity.git
    cd tryhard-solidity
+
+## Instal dependencies:
+
+-npm instal
+
+## Compile the smart contract:
+
+-npx hadhat compile
+
+## Deployment:
+
+-npx hardhat run scripts/deploy.js
+
